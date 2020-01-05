@@ -4,9 +4,7 @@
 
 - Before you run anything, try to configure this first...
 
-  kafka/server.properties
-  
-  listeners=PLAINTEXT://localhost:9092
+  kafka/server.properties > listeners=PLAINTEXT://localhost:9092
   
 1. HelloWorld with Kafka (**helloWorld branch**)
    
