@@ -14,4 +14,4 @@ Before you run anything, try to configure this first...
    https://www.javainuse.com/misc/apache-kafka-hello-world
   
     - Steps
-    
+      - First step
