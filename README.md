@@ -2,9 +2,9 @@
 
 - Install it from Homebrew manager https://medium.com/@Ankitthakur/apache-kafka-installation-on-mac-using-homebrew-a367cdefd273
 
-Before you run anything, try to configure this first...
+- Before you run anything, try to configure this first...
 
-- kafka/server.properties
+  kafka/server.properties
   
   listeners=PLAINTEXT://localhost:9092
   
