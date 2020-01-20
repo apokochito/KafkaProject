@@ -15,3 +15,24 @@
   
     - Steps
       - First step
+      
+2. Using Kafka with Java (**javaKafka branch**)
+
+    This...
+    
+    - Steps
+      - First step
+      
+3. Using Kafka with Spring (**springKafka branch**)
+
+    This...
+    
+    - Steps
+      - First step
+
+4. Using Spring Cloud Stream Binder with Java (**springCloudStreamBinderKafka branch**)
+
+    This...
+    
+    - Steps
+      - First step  
